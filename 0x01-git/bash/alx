@@ -1,0 +1,13 @@
+#!/bin/bash 
+echo "ALX"
+
+clear
+cd..
+^C
+clear
+cat > shcool
+#!/bin/bash echo "School"
+^c
+^C
+git add .
+git -commit "Starting to code today, so cool"
