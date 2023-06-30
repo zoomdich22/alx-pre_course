@@ -1,5 +1,5 @@
 #!/bin/bash 
-echo "ALX"
+echo "ALX School"
 
 clear
 cd..
@@ -11,3 +11,5 @@ cat > shcool
 ^C
 git add .
 git -commit "Starting to code today, so cool"
+“ALX School"
+
